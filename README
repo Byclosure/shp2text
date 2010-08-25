@@ -1,0 +1,12 @@
+== Install ==
+ * run "make" to generate shp2text binary
+ 
+== Mac OSx 10.5.8 ==
+ * Compilation Doesn't (yet) work
+ 
+== Ubuntu ==
+ * Binaries work just fine (already included)
+ * TODO
+ 
+== Windows ==
+ * TODO
